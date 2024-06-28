@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @godsonj64
-- 👀 I’m interested in ... building Brain computing interfaces and UI 
+- 👋 Hi, I’m @godson
+- I Envison the possibility of Artifical Conscious Intelligence 
+- 👀 I’m interested in ... building ML algorithms ,Neural Networks,  Brain computing interfaces and UI 
 - 🌱 I’m currently learning ...tech Business
 - 💞️ Last year I founded a startup company and incorporated it in HALIFAX. Since, I was conducting R&D my own and finally settled on an idea of “Creator space”. An AI based platform  that allows freedom for creators of any talent and let them have full control over their creation. Creator space would give them opportunity to discover their talents from inspiration ,create, share, collaborate and build digital audiences.
 
