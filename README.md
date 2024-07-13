@@ -6,7 +6,7 @@
 
 I believe deeper level of personality can be decoded through its imagination. Imagination unleash creativity.
 
-I am in search of co-founders who are talented developers to join abroad to build the platform.
+
 
 I would like to discuss more about the opportunity
 
